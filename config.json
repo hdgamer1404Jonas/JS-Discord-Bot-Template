@@ -1,0 +1,8 @@
+{
+  "token": "OTgyOTQ5NDY5MDI2OTIyNTQ4.GNia7x.8aIxrjMn7fwvd1gp4g5_4agFCxvXH_09mh--eQ",
+  "enable_slash_commands": true,
+  "intents": [
+    "Guilds",
+    "GuildMessages"
+  ]
+}
